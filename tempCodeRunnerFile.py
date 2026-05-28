@@ -1,2 +1,2 @@
 boto3
-# Repository maintained by samruddhi2026.
+# Repository maintained by Purva Patil.
