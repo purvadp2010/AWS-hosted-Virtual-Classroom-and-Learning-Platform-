@@ -1,3 +1,3 @@
 # Documentation
 
-Project documentation maintained by Purva Patil.
+Project documentation maintained by shreyas patil.
